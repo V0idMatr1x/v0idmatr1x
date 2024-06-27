@@ -1,4 +1,4 @@
-## I am a passionate software engineer and cybersecurity researcher.
+> I am a passionate Software Engineer and Cybersecurity Researcher.
 
 ### About Me
 
