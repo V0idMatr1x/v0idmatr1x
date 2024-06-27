@@ -10,4 +10,4 @@
 
 - I love open source </>
 
-- I love video games 🎮 (Elen Ring, Rainbow Six Siege, Star Citizen)
+- I love video games 🎮 (Elden Ring, Ghost of Tsushima Rainbow Six Siege, Star Citizen)
