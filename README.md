@@ -1,16 +1,13 @@
-## Hi there 👋
+## I am a passionate software engineer and cybersecurity researcher.
 
-<!--
-**V0idMatr1x/v0idmatr1x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
 
-Here are some ideas to get you started:
+- I graduated college with an AS degree in Cybersecurity 👨‍🎓.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Currently, I am specializing my skill set in Rust and Data Science 🦀🌎.
+
+- I love tinkering with operating systems & hardware.
+
+- I love open source </>
+
+- I love video games 🎮 (Elen Ring, Rainbow Six Siege, Star Citizen)
