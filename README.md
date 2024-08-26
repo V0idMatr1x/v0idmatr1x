@@ -10,4 +10,4 @@
 
 - I love tinkering with operating systems & hardware.
 
-- I love open source </>
+- I ♥️ open source </>
