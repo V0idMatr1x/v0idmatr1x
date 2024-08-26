@@ -11,5 +11,3 @@
 - I love tinkering with operating systems & hardware.
 
 - I love open source </>
-
-- I love video games 🎮 (Elden Ring, Ghost of Tsushima, Star Citizen)
