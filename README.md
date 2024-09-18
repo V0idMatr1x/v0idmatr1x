@@ -1,5 +1,3 @@
-> I am a passionate Software Engineer and Cybersecurity Researcher.
-
 ### About Me
 
 - I graduated college with an AS degree in Cybersecurity 👨‍🎓.
